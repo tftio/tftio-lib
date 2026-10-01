@@ -1,0 +1,12 @@
+# Managed by Copier — do not edit by hand.
+# Update with: copier update --answers-file .copier-answers.base.yml
+_src_path: project-templates/base
+author_email: j@tft.io
+author_name: jfb
+description: Shared CLI, agent-mode, and prompt-handling library for tftio Rust tools
+init_git: false
+package_slug: tftio_lib
+project_kind: rust-lib
+project_name: tftio-lib
+publish: true
+vcs_host: github

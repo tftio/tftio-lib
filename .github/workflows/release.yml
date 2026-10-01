@@ -1,0 +1,14 @@
+name: release
+
+on:
+  release:
+    types: [published]
+
+permissions:
+  contents: write
+
+jobs:
+  artifacts:
+    uses: tftio/gh-actions/.github/workflows/rust-artifacts.yml@v2.0.0
+    with:
+      release-binaries: false
