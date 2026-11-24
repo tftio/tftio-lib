@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.4.6](https://github.com/tftio/tftio-lib/compare/v0.4.5...v0.4.6) - 2026-11-23
+
+### Other
+
+- *(deps)* lock file maintenance ([#16](https://github.com/tftio/tftio-lib/pull/16))
+- update tftio/gh-actions reusable workflow pin to v2.5.1 ([#14](https://github.com/tftio/tftio-lib/pull/14))
+- *(deps)* update cargo dependencies (non-major) ([#13](https://github.com/tftio/tftio-lib/pull/13))
+
 ## [0.4.5](https://github.com/tftio/tftio-lib/compare/v0.4.4...v0.4.5) - 2026-11-16
 
 ### Other
